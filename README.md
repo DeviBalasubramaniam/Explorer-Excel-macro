@@ -22,6 +22,6 @@ Here is the  procedure to use the macro
 
 8. Now you will be automatically redirected to the ‘Header_Row’ result sheet.
 
-9.Columns available in the uploaded file will be listed in this sheet. Also the background color will be changed to ‘RED’ if the column is not available in the exported file. Likewise it will be changed to ‘Green’ if the column is available in the exported file.
+  9.Columns available in the uploaded file will be listed in this sheet. Also the background color will be changed to ‘RED’ if the column is not available in the exported file. Likewise it will be changed to ‘Green’ if the column is available in the exported file.
 
-                                                                                  ***
+                                                                       ***
