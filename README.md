@@ -13,6 +13,7 @@ Here is the  procedure to use the macro
 4. Click on the button against the scenario which you want to test ( Now only one test is available to compare the columns between uploaded and exported files).
 
 5. Msgbox will be displayed with the buttons ‘Yes’ and ‘No’. Now select the format of the uploaded file. It can be either CSV or Excel.
+   
    Click on ‘YES’ if you want to select the CSV file
    
    Click on ‘No’ if you want to select the Excel file
