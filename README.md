@@ -21,5 +21,7 @@ Here is the  procedure to use the macro
 7. Again the ‘open/Browse file’ window will be opened to let you to select the exported report from the explorer. 
 
 8. Now you will be automatically redirected to the ‘Header_Row’ result sheet.
+
 9.Columns available in the uploaded file will be listed in this sheet. Also the background color will be changed to ‘RED’ if the column is not available in the exported file. Likewise it will be changed to ‘Green’ if the column is available in the exported file.
+
                                                                                   ***
