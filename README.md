@@ -1,8 +1,8 @@
 # Excel VBA Macro for Explorer Report validation
 
 
-Here is the  procedure to use the macro
-***************************************
+## Here is the  procedure to use the macro
+
 
 1. Open the given Macro-enabled workbook 'Report_Validation'.
 
@@ -13,8 +13,8 @@ Here is the  procedure to use the macro
 4. Click on the button against the scenario which you want to test. For example the button against the ‘Header row validation’ test has been clicked.
 
 
-Execution flow of 'Header row validation' test :
-****************************************************
+### Execution flow of 'Header row validation' test :
+
 
 1. Message box will be displayed with the buttons ‘Yes’ and ‘No’ to let you select the format of the uploaded file. It can be either CSV or Excel.
    
