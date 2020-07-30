@@ -10,27 +10,27 @@
 
 3. Now you can see the list of available tests in the Table. Brief explanation about table.
 
-### S. No 
+###### S. No 
 
 Test Case number
 
-### Test Name 
+###### Test Name 
 
 Name of the Test
 
-### Test Description 
+###### Test Description 
 
 Brief explanation about the test
 
-### Test data 
+###### Test data 
 
 Required data to run that test. Tests for which the data is not required marked as ‘NA’
 
-### Execution Flag
+###### Execution Flag
 
  It can be set to ‘Yes’ or ‘No’ by using the drop down list. The test will be executed only when the flag is set to “Yes”.
 
-### Status
+###### Status
 
 Execution status of the test. If the test is not included in the run then it will be marked as ‘No Run’ else based on the execution result it will be set to ‘PASS’ or ‘FAIL’.
 
