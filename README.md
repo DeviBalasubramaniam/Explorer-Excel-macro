@@ -3,8 +3,9 @@
 
 # Pre - Requisites:
 
-The file which is uploaded to create the project
-Excel report exported from the project’s advanced modelling page.
+1. The file which was uploaded to create the project.
+
+2. Excel report exported from that project’s advanced modelling page.
 
 
 ## Procedure to use the macro
