@@ -32,7 +32,7 @@
 
 5. Update the test data if it's mentioned as 'required' in the test description.
 
-6. Click on the 'Excel report validation' button on the right side of the table to start the execution.
+6. Click on the 'RUN' button on the right side of the table to start the execution.
 
 7. It’s time to select an uploaded file.  Message box will be displayed with the buttons ‘Yes’ and ‘No’ to let you select the format of the uploaded file. It can be either CSV or Excel.
    
@@ -50,4 +50,4 @@
 
 Note : Refer 'Report_Validation' in the macro enabled workbook to know more about the tests.
 
-                                                                                    ***
+                                                               ***
